@@ -1,0 +1,19 @@
+{
+  "name": "@doug-skinner/alphabetjs",
+  "version": "1.0.0",
+  "description": "The alphabet as an array of characters",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doug-skinner/alphabetJS.git"
+  },
+  "author": "Doug Skinner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doug-skinner/alphabetJS/issues"
+  },
+  "homepage": "https://github.com/doug-skinner/alphabetJS#readme"
+}
